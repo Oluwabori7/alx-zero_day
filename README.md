@@ -1,1 +1,1 @@
-My first readme
+Let there be light and there was light
